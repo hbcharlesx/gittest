@@ -1,2 +1,2 @@
 test1
-add new A line
+add new B line
